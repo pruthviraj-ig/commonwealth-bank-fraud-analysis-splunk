@@ -81,7 +81,7 @@ Visualised fraud exposure using gauge metrics.
 
 ## Dashboard Preview
 
-![Dashboard Overview](screenshots/dashboard_overview.png)
+![Dashboard Overview](splunk dashboard.png)
 
 ---
 
